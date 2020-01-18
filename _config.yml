@@ -1,11 +1,11 @@
 # Site settings
-author: inherited-snippet-0885
-title: 
+author: Todd Norton
+title: Todd's TBD Blog
 header-img: img/home-bg.png
 email: toddmnorton@live.com
-copyright_name: inherited-snippet-0885
+copyright_name: Todd Norton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Not sure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  toddmnortonCO
